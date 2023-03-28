@@ -1,0 +1,1 @@
+export const fetchPostsRequest = () => ({ type: 'FETCH_POSTS_REQUEST' });
